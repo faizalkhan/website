@@ -1,0 +1,16 @@
+{
+  "name": "html-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "deploy" : "gh-pages"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/faizalkhan/website ",
+  "dependencies": {
+    "git-pages": "^0.8.1"
+  }
+}
